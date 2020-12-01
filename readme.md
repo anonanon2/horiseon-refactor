@@ -9,4 +9,4 @@ TASKS:
     improve semantic HTML --- 
     follow accessibility standards --- 
     make structure logical and sequential --- 
-    consolidate CSS (DRY) --- 
+    consolidate CSS (DRY)
