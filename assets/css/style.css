@@ -92,14 +92,8 @@ body {
 }
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    background-color: #0072bb
-}
-
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    background-color: #0072bb;
     height: 300px;
-}
-
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     padding: 50px;
 }
 
@@ -128,22 +122,13 @@ body {
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img{
     max-width: 150px;
-}
-
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
-}
-
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
     margin: 10px auto;
 }
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
-}
-
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3,{
-    text-align: center
+    text-align: center;
 }
 
 .benefits, .footer {
@@ -157,3 +142,4 @@ body {
 
 .footer h2 {
     font-size: 20px;
+}
